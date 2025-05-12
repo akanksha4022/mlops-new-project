@@ -1,10 +1,11 @@
 body {
 	margin:  0;
+	background-color: #888888;
 }
 .page-content {
 	width: 100%;
 	margin:  0 auto;
-	background: #4077c8;
+	background: #13160a;
 	display: flex;
 	display: -webkit-flex;
 	justify-content: center;
@@ -103,7 +104,7 @@ body {
 	border: 2px solid #999;
 }
 .form-v9-content .form-detail .register {
-	background: #f25d5d;
+	background: #743661;
 	border-radius: 25px;
 	-o-border-radius: 25px;
 	-ms-border-radius: 25px;
